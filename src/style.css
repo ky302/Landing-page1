@@ -1,0 +1,7 @@
+.con {
+  background-image: url(./assets/images/bg-tablet-pattern.svg),
+    url(./assets/images/bg-tablet-pattern.svg);
+  background-repeat: no-repeat;
+  background-size: 100vh;
+  background-position: right -15vh bottom 120vh, left -50vh top 80vh;
+}
