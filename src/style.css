@@ -3,5 +3,6 @@
     url(./assets/images/bg-tablet-pattern.svg);
   background-repeat: no-repeat;
   background-size: 100vh;
-  background-position: right -15vh bottom 120vh, left -50vh top 80vh;
+  background-position: right -10vh bottom 40vh, left 10vh top 80vh;
+  background-attachment: fixed;
 }
