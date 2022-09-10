@@ -4,11 +4,11 @@ const Content2 = () => {
   return (
     <div className="container-main2 grid grid-cols-1 lg:grid-cols-2 max-w-5xl mx-auto py-10">
       <div className=" flex items-center lg:items-start justify-center lg:justify-start">
-        <div className="main-content text-center lg:text-left lg:space-y-6 ">
-          <h1 className="font-bold text-4xl mx-3 lg:mx-0">
+        <div className="main-content text-center lg:text-left space-y-6 lg:space-y-4 w-4/5 ">
+          <h1 className="font-bold text-3xl lg:text-5xl">
             What's different about Manage?
           </h1>
-          <p className=" text-md text-gray-500 mx-8 lg:mx-0 py-6 lg:py-0 lg:w-3/5">
+          <p className=" text-base text-gray-500 lg:w-4/5 pb-4 lg:pb-0">
             Manage provides all the functionality your team needs, without the
             complexity. Our software is tailor-made for modern digital product
             teams.

@@ -6,7 +6,7 @@ import { Carousel } from "flowbite-react";
 const Card = () => {
   return (
     <div className="mx-auto text-center my-16 space-y-8 lg:space-y-0 ">
-      <h1 className="font-bold text-4xl">What they've said</h1>
+      <h1 className="font-bold text-3xl lg:text-5xl">What they've said</h1>
       <div className=" h-60 sm:h-64 xl:h-80 2xl:h-96 duration-800">
         <Carousel>
           {CardData.map((val, index) => {

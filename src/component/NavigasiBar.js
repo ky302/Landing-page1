@@ -45,7 +45,7 @@ const Navigation = () => {
           <div
             className={`${
               burger ? "block" : "hidden"
-            } lg:flex flex-col lg:flex-row lg:justify-between bg-white lg:bg-transparent absolute lg:relative z-50 font-semibold lg:font-normal shadow-xl lg:shadow-none text-center w-4/5 lg:w-full rounded-lg py-4 lg:py-0`}
+            } lg:flex flex-col lg:flex-row lg:justify-between bg-white lg:bg-transparent absolute lg:relative z-50 font-semibold lg:font-normal shadow-xl lg:shadow-none text-center w-11/12 lg:w-full rounded-lg py-4 lg:py-0`}
           >
             <div className=" flex flex-col lg:flex-row">
               <a
