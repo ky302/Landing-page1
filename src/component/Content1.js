@@ -6,7 +6,7 @@ const Content1 = () => {
     <div className="container-main grid grid-cols-1 lg:grid-cols-2 max-w-5xl mx-auto py-10 ">
       <div className=" order-2 lg:order-1 flex items-center justify-center lg:justify-start lg:items-start lg:pt-14">
         <div className="main-content text-center lg:text-left space-y-6 lg:space-y-4 max-w-md">
-          <h1 className="font-bold text-4xl">
+          <h1 className="font-bold text-4xl mx-3 lg:mx-0">
             Bring everyone together to build better products.
           </h1>
 

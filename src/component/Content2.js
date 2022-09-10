@@ -5,7 +5,9 @@ const Content2 = () => {
     <div className="container-main2 grid grid-cols-1 lg:grid-cols-2 max-w-5xl mx-auto py-10">
       <div className=" flex items-center lg:items-start justify-center lg:justify-start">
         <div className="main-content text-center lg:text-left lg:space-y-6 ">
-          <h1 className="font-bold text-4xl">What's different about Manage?</h1>
+          <h1 className="font-bold text-4xl mx-3 lg:mx-0">
+            What's different about Manage?
+          </h1>
           <p className=" text-md text-gray-500 mx-8 lg:mx-0 py-6 lg:py-0 lg:w-3/5">
             Manage provides all the functionality your team needs, without the
             complexity. Our software is tailor-made for modern digital product
